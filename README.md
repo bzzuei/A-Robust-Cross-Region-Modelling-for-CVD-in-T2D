@@ -1,11 +1,7 @@
 # Project Title
 A Robust Cross-Region Modelling and Validation Framework for Generalisable Cardiovascular Risk Prediction in Type 2 Diabetes
 
-## Student Information
-Name: Yanbei Zhang
-Student ID: 2532645
-Theme: 3
-Topic: 3
+## Description
 
 This project investigates how a cross-region modelling and validation strategy can be designed for cardiovascular disease risk prediction in people with type 2 diabetes. The portfolio focuses on improving model generalisability to unseen regional populations and reducing reliance on repeated local recalibration.
 
